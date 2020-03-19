@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thahfeighu.yury.co/sitemap.xml
